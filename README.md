@@ -1,2 +1,1 @@
-# Inflect
-INFection FLow Exploration &amp; Correlation Tool
+# INFection FLow Exploration & Correlation Tool
